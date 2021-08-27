@@ -13,6 +13,7 @@
 		1C58E18826D7E9E300081F43 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C58E18626D7E9E300081F43 /* Main.storyboard */; };
 		1C58E18A26D7E9E300081F43 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C58E18926D7E9E300081F43 /* Assets.xcassets */; };
 		1C58E18D26D7E9E300081F43 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C58E18B26D7E9E300081F43 /* LaunchScreen.storyboard */; };
+		1C58E1BC26D7F0E300081F43 /* cropTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C58E1BB26D7F0E300081F43 /* cropTableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1C58E18926D7E9E300081F43 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C58E18C26D7E9E300081F43 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1C58E18E26D7E9E300081F43 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C58E1BB26D7F0E300081F43 /* cropTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cropTableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				1C58E18026D7E9E300081F43 /* AppDelegate.swift */,
 				1C58E18226D7E9E300081F43 /* SceneDelegate.swift */,
+				1C58E1BB26D7F0E300081F43 /* cropTableView.swift */,
 				1C58E18426D7E9E300081F43 /* ViewController.swift */,
 				1C58E18626D7E9E300081F43 /* Main.storyboard */,
 				1C58E18926D7E9E300081F43 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1C58E18526D7E9E300081F43 /* ViewController.swift in Sources */,
+				1C58E1BC26D7F0E300081F43 /* cropTableView.swift in Sources */,
 				1C58E18126D7E9E300081F43 /* AppDelegate.swift in Sources */,
 				1C58E18326D7E9E300081F43 /* SceneDelegate.swift in Sources */,
 			);
